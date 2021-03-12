@@ -15,9 +15,9 @@ function doesTheStringMeetSomeCondition(someString){
 }
 
 /*
-* 1) For two points, describe when this function will return true
-* 2) For one point, describe when this function will return false
-* 3) For an extra point, suggest improvements to the function
+* 1) 2 points - describe when this function will return true
+* 2) 1 point - describe when this function will return false
+* 3) 1 extra point - suggest improvements to the function
 */
 
 

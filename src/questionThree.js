@@ -6,14 +6,14 @@ function doSomething(someNumber){
 let number = 0
 doSomething(number)
 
-// what is logged to the console at step one?
+// 1 point - what is logged to the console at step one?
 console.log(number)
 
 
 let someNumber = 2
 doSomething(someNumber)
 
-// what is logged to the console at step two?
+// 1 point - what is logged to the console at step two?
 console.log(someNumber)
 
 
